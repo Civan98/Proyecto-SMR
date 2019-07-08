@@ -6,8 +6,11 @@ modificación primera
 modificación primera
 lol 
 <<<<<<< HEAD
+<<<<<<< HEAD
 modificacion ivan
 =======
+=======
+>>>>>>> 9c7b05bca647395217389da784784435563d8c7f
 modificación de aldo
 
 >>>>>>> 9c7b05bca647395217389da784784435563d8c7f
